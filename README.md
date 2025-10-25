@@ -11,7 +11,4 @@ Interested in research that connects AI with transparency, fairness, and real-wo
 Building my technical portfolio through self-driven projects and continuous learning.
 
 🧩 Interests
-Machine Learning & Deep Learning
-Explainable AI (XAI)
-AI Ethics & Responsible AI
-NLP
+Machine Learning & Deep Learning, Explainable AI (XAI), AI Ethics & Responsible AI, NLP
