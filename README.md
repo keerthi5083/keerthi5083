@@ -1,8 +1,9 @@
 ## Hi, I'm Keerthi 
 
- MSc in Artificial Intelligence and Robotics with Advanced Research (UK)
- Aspiring Data Scientist
+ MSc in Artificial Intelligence and Robotics with Advanced Research (UK).
+ Aspiring Data Scientist.
  Passionate about Machine Learning, Deep Learning, and AI Ethics
+
 
 About Me
 I enjoy building practical solutions using AI, machine learning, and data-driven approaches, and I have hands-on experience working with Python, Java, TensorFlow, PyTorch, and web technologies.
